@@ -1,0 +1,13 @@
+{
+    "name": "yarik/oot",
+    "authors": [
+        {
+            "name": "Yarik",
+            "email": "n.yd@yandex.ru"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": { "": "src/" }
+    }
+}
